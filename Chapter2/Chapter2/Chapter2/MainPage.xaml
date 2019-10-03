@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Chapter2.MainPage">
+
+    <ContentPage.Content>
+        <StackLayout Padding="30,30">
+            <Label x:Name="MyLabel" Text="Hello Entry" />
+            <Entry Text="{Binding Path=Text, Source={x:Reference MyLabel}}" />
+            <Picker>
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Option 1</x:String>
+                        <x:String>Option 2</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            <Label Text="Contructor"/>
+            <DatePicker />
+            <BoxView>
+                <BoxView.Color>
+                    <Color>
+                        <x:Arguments>
+                            <x:Double>0.5</x:Double>
+                            <x:Double>0.0</x:Double>
+                            <x:Double>0.0</x:Double>
+                            <x:Double>0.9</x:Double>
+                        </x:Arguments>
+                    </Color>
+                </BoxView.Color>
+            </BoxView>
+            <BoxView>
+                <BoxView.Color>
+                    <Color x:FactoryMethod="FromHex">
+                        <x:Arguments>
+                            <x:String>#02dd52</x:String>
+                        </x:Arguments>
+                    </Color>
+                </BoxView.Color>
+            </BoxView>
+
+            <Label>
+                <Label.Text>Property Element</Label.Text>
+            </Label>
+            <Label>Content Property</Label>
+            <Button FontSize="Medium" Text="Medium Size Button" />
+            <Button FontAttributes="Italic,Bold" Text="Italic Bold Button" />
+            <Button Text="Make It So" />
+            <Grid>
+                <Label Grid.Row="1" Grid.Column="1" Text="Cell (1,1)" />
+            </Grid>
+
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

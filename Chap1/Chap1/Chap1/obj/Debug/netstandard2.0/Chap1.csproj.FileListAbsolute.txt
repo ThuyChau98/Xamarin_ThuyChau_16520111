@@ -1,0 +1,13 @@
+C:\Users\trant\OneDrive\Desktop\Xamarin\Chap1\Chap1\Chap1\bin\Debug\netstandard2.0\Chap1.deps.json
+C:\Users\trant\OneDrive\Desktop\Xamarin\Chap1\Chap1\Chap1\bin\Debug\netstandard2.0\Chap1.dll
+C:\Users\trant\OneDrive\Desktop\Xamarin\Chap1\Chap1\Chap1\bin\Debug\netstandard2.0\ref\Chap1.dll
+C:\Users\trant\OneDrive\Desktop\Xamarin\Chap1\Chap1\Chap1\bin\Debug\netstandard2.0\Chap1.pdb
+C:\Users\trant\OneDrive\Desktop\Xamarin\Chap1\Chap1\Chap1\obj\Debug\netstandard2.0\Chap1.csprojAssemblyReference.cache
+C:\Users\trant\OneDrive\Desktop\Xamarin\Chap1\Chap1\Chap1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\trant\OneDrive\Desktop\Xamarin\Chap1\Chap1\Chap1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\trant\OneDrive\Desktop\Xamarin\Chap1\Chap1\Chap1\obj\Debug\netstandard2.0\Chap1.AssemblyInfoInputs.cache
+C:\Users\trant\OneDrive\Desktop\Xamarin\Chap1\Chap1\Chap1\obj\Debug\netstandard2.0\Chap1.AssemblyInfo.cs
+C:\Users\trant\OneDrive\Desktop\Xamarin\Chap1\Chap1\Chap1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\trant\OneDrive\Desktop\Xamarin\Chap1\Chap1\Chap1\obj\Debug\netstandard2.0\Chap1.dll
+C:\Users\trant\OneDrive\Desktop\Xamarin\Chap1\Chap1\Chap1\obj\Debug\netstandard2.0\ref\Chap1.dll
+C:\Users\trant\OneDrive\Desktop\Xamarin\Chap1\Chap1\Chap1\obj\Debug\netstandard2.0\Chap1.pdb
